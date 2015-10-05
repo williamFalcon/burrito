@@ -1,5 +1,5 @@
-CountDownTimer('10/15/2015 7:0 PM', 'clock-text');
-CountDownTimer('10/15/2015 7:0 PM', 'clock-text');
+CountDownTimer('10/13/2015 7:0 PM', 'clock-text');
+CountDownTimer('10/13/2015 7:0 PM', 'clock-text');
 
 function CountDownTimer(dt, id)
 {
