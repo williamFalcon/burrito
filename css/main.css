@@ -1,0 +1,26 @@
+#clock-text {
+    font-family: 'AvenirNext-UltraLight', sans-serif;
+    color: white;
+    font-size: 120px;
+    text-align: center;
+}
+
+#imageHolder {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    margin: 0;
+    background-image: url(http://i.imgur.com/87Ie2nd.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px
+}
